@@ -62,28 +62,29 @@ public class Matrices {
 	}
 	
 	/**
-	 * TODO; currently works for perfect squares (i.e. both args must have equal columns and rows, and rows must be equal to columns.
-	 * @param par0
-	 * @param par1
-	 * @return
+	 * Multiplies two matrices together.
+	 * @param par0 Matrix 1
+	 * @param par1 Matrix 2
+	 * @return A new Matrix, with values Matrix 1 * Matrix 2. Returns Matrix 1 if Matrix 1's column size is not equal to Matrix 2's row size.
 	 */
 	public static Matrix multiply(Matrix par0, Matrix par1) {
 		if(par0.columns() != par1.rows()) return par0;
 		
 		Matrix var0 = new Matrix(par0.rows(), par1.columns());
 		
-		double[][] var1 = new double[par0.rows()][par0.columns()];
+		double var1 = 0D;
 		
-		for(int var2 = 0; var2 < par0.rows(); var2++) {
-			for(int var3 = 0; var3 < par0.columns(); var3++) {
-				var1[var2][var3] = 0D;
-				
-				for(int var4 = 0; var4 < par0.rows(); var4++) {
-					var1[var2][var3] += (par0.get(var2, var4) * par1.get(var4, var3));
+		for(int var2 = 0; var2 < var0.rows(); var2++) {
+			for(int var3 = 0; var3 < var0.columns(); var3++) {
+				for(int var4 = 0; var4 < par0.columns(); var4++) {
+					var1 = var1 + par0.get(var2, var4) * par1.get(var4, var3);
 				}
+				
+				var0.set(var2, var3, var1);
+				var1 = 0;
 			}
 		}
 		
-		return var0 = from(var1);
+		return var0;
 	}
 }

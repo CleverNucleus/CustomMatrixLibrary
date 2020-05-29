@@ -220,6 +220,25 @@ public class Matrix {
 	}
 	
 	/**
+	 * TODO Calculates the eigenvalues of this matrix. Currently only works for 2x2 matrices.
+	 * @return The eigenvalues. If this matrix is not a square, or is not a 2x2 matrix this returns an empty array.
+	 */
+	public double[] eigenvals() {
+		if(!isSquare() || size() != 4) return new double[] {};
+		
+		double[] var0 = new double[this.rows];
+		
+		double var1 = -get(0, 0) + -get(1, 1);
+		double var2 = det2(this);
+		double var3 = Math.sqrt(Math.pow(var1, 2) - (4D * var2));
+		
+		var0[0] = (-var1 + var3) / 2D;
+		var0[1] = (-var1 - var3) / 2D;
+		
+		return var0;
+	}
+	
+	/**
 	 * Gets a row of values (array).
 	 * @param par0 Row.
 	 * @return Row array.
