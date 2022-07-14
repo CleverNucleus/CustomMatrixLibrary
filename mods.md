@@ -38,7 +38,7 @@
 ### Vague | Mod Series | *To-be-found*
 
 | Request | Requested | Status |
-| :-- | :-------- | :--: | :----: |
+| :------ | :-------- | :----: |
 | Nether/End expansion | Seth | <span style="color:red">❌</span> |
 | Thermal series | Jamie | <span style="color:red">❌</span> |
 | Yung's mods | Jamie | <span style="color:red">❌</span> |
