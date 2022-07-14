@@ -3,10 +3,10 @@
 
 - This is to help keep track of everything.
 - Mod list does not include dependencies.
-- Mods that have the `client` tag are optional.
-- *Most* mods have massive configurability to disable any unwanted features.
+- Mods that have the `client` tag are optional (i.e. each player can choose to use them).
+- Most mods have massive configurability to disable any unwanted features.
 - Status refers to if the mod has been downloaded and tested with others.
-- Even if a mod a green status, it may be eventually removed for performance reasons.
+- Even if a mod has a green status, it may be eventually removed for performance reasons.
 
 ### Mods
 
