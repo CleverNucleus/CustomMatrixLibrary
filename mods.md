@@ -4,6 +4,7 @@
 - This is to help keep track of everything.
 - Mod list does not include dependencies.
 - Mods that have the `client` tag are optional (i.e. each player can choose to use them).
+  - Some mods with the `common` tag are also optional.
 - Most mods have massive configurability to disable any unwanted features.
 - Status refers to if the mod has been downloaded and tested with others.
 - Even if a mod has a green status, it may be eventually removed for performance reasons.
@@ -24,6 +25,7 @@
 | [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads) | Sam | `common` | <span style="color:red">❌</span> |
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | Sam | `common` | <span style="color:red">❌</span> |
 | [Grimoire of Gaia](https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia) | Jamie | `common` | <span style="color:red">❌</span> |
+| [Hidden Recipe Book](https://www.curseforge.com/minecraft/mc-mods/hidden-recipe-book) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | Jamie | `common` | <span style="color:red">❌</span> |
