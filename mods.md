@@ -29,7 +29,7 @@
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | Sam | `common` | <span style="color:red">❌</span> |
 | [Grimoire of Gaia](https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Hidden Recipe Book](https://www.curseforge.com/minecraft/mc-mods/hidden-recipe-book) | Jamie | `client` | <span style="color:green">✔️</span> |
-| [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | Jamie | `common` | <span style="color:green">❌</span> |
+| [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | Jamie | `client` | <span style="color:green">✔️</span> |
