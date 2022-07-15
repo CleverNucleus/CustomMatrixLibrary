@@ -13,20 +13,19 @@
 
 | Mod | Requested | Side | Status |
 | :-- | :-------- | :--: | :----: |
-| [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) | Seth | `common` | <span style="color:red">❌</span> |
+| [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) | Seth | `common` | <span style="color:green">✔️</span> |
 | [Ambient Sounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | Jamie | `common` | <span style="color:red">❌</span> |
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Sam | `common` | <span style="color:green">✔️</span> |
-| [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture) | Jamie | `common` | <span style="color:red">❌</span> |
+| [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau) | Jack | `common` | <span style="color:red">❌</span> |
 | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) | Sam | `common` | <span style="color:red">❌</span> |
 | [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Jamie | `common` | <span style="color:green">✔️</span> |
-| [Biome Growth Control](https://www.curseforge.com/minecraft/mc-mods/restricted-saplings) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Jack | `common` | <span style="color:green">✔️</span> |
 | [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Champions](https://www.curseforge.com/minecraft/mc-mods/champions) | Sam | `common` | <span style="color:red">❌</span> |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Sam | `server` | <span style="color:green">✔️</span> |
-| [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) | Jamie | `common` | <span style="color:red">❌</span> |
+| [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) | Sam | `common` | <span style="color:red">❌</span> |
 | [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | Sam | `client` | <span style="color:green">✔️</span> |
