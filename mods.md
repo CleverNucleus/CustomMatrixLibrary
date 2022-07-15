@@ -19,16 +19,17 @@
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) | Sam | `common` | <span style="color:red">❌</span> |
 | [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful) | Jamie | `common` | <span style="color:red">❌</span> |
+| [Champions](https://www.curseforge.com/minecraft/mc-mods/champions) | Sam | `common` | <span style="color:red">❌</span> |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Sam | `server` | <span style="color:green">✔️</span> |
 | [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) | Sam | `common` | <span style="color:red">❌</span> |
-| [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) | Sam | `server` | <span style="color:red">❌</span> |
+| [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | Sam | `client` | <span style="color:green">✔️</span> |
 | [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads) | Sam | `common` | <span style="color:red">❌</span> |
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | Sam | `common` | <span style="color:red">❌</span> |
 | [Grimoire of Gaia](https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Hidden Recipe Book](https://www.curseforge.com/minecraft/mc-mods/hidden-recipe-book) | Jamie | `client` | <span style="color:green">✔️</span> |
-| [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | Jamie | `common` | <span style="color:green">✔️</span> |
+| [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | Jamie | `common` | <span style="color:green">❌</span> |
 | [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | Jamie | `client` | <span style="color:green">✔️</span> |
@@ -49,13 +50,22 @@
 | [Tombstone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) | Sam | `common` | <span style="color:red">❌</span> |
 | [Tree Harvester](https://www.curseforge.com/minecraft/mc-mods/tree-harvester) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Wall-Jump!](https://www.curseforge.com/minecraft/mc-mods/wall-jump) | Sam | `common` | <span style="color:red">❌</span> |
+| [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) | Sam | `server` | <span style="color:red">❌</span> |
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Sam | `client` | <span style="color:green">✔️</span> |
 
 ### Vague | Mod Series | *To-be-found*
 
 | Request | Requested | Tentative | Status |
 | :------ | :-------- | :-------- | :----: |
-| Nether/End expansion | Seth | [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) | <span style="color:red">❌</span> |
+| Backpack mod | Seth | [to-do](#) | <span style="color:red">❌</span> |
+| Smarter/Harder mobs? (oof) | Jamie | [Improved Mobs](https://www.curseforge.com/minecraft/mc-mods/improved-mobs) | <span style="color:red">❌</span> |
+| Nether/End expansion | Seth | [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)<br>[L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm) | <span style="color:red">❌</span> |
 | Thermal series | Jamie | [Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)<br>[Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) | <span style="color:red">❌</span> |
 | Waystone mod | Seth | [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) | <span style="color:red">❌</span> |
 | Yung's mods | Jamie | [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)<br>[Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)<br>[Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras) | <span style="color:red">❌</span> |
+
+### Datapacks
+
+| Datapack | Requested | Status |
+| :-- | :-------- | :----: |
+| [Towers of the Wild: Reworked](https://www.curseforge.com/minecraft/texture-packs/towers-of-the-wild-reworked-datapack) | Jamie | <span style="color:red">❌</span> |
