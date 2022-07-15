@@ -13,12 +13,14 @@
 
 | Mod | Requested | Side | Status |
 | :-- | :-------- | :--: | :----: |
+| [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) | Seth | `common` | <span style="color:red">❌</span> |
 | [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | Jamie | `common` | <span style="color:red">❌</span> |
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) | Sam | `common` | <span style="color:red">❌</span> |
 | [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Sam | `server` | <span style="color:green">✔️</span> |
+| [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) | Sam | `common` | <span style="color:red">❌</span> |
 | [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) | Sam | `server` | <span style="color:red">❌</span> |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | Sam | `client` | <span style="color:green">✔️</span> |
@@ -38,6 +40,8 @@
 | [Project E](https://www.curseforge.com/minecraft/mc-mods/projecte) | Sam | `common` | <span style="color:red">❌</span> |
 | [Pick Up Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier) | Sam | `client` | <span style="color:green">✔️</span> |
 | [Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear) | Sam | `common` | <span style="color:red">❌</span> |
+| [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) | Jamie | `client` | <span style="color:green">✔️</span> |
+| [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) | Jamie | `server` | <span style="color:red">❌</span> |
 | [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden) | Seth | `common` | <span style="color:red">❌</span> |
 | [The Wild Update (Frogs)](https://www.curseforge.com/minecraft/mc-mods/the-wild-update) | Josie | `common` | <span style="color:red">❌</span> |
@@ -49,9 +53,9 @@
 
 ### Vague | Mod Series | *To-be-found*
 
-| Request | Requested | Status |
-| :------ | :-------- | :----: |
-| Nether/End expansion | Seth | <span style="color:red">❌</span> |
-| Thermal series | Jamie | <span style="color:red">❌</span> |
-| Waystone mod | Seth | <span style="color:red">❌</span> |
-| Yung's mods | Jamie | <span style="color:red">❌</span> |
+| Request | Requested | Tentative | Status |
+| :------ | :-------- | :-------- | :----: |
+| Nether/End expansion | Seth | [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) | <span style="color:red">❌</span> |
+| Thermal series | Jamie | [Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)<br>[Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) | <span style="color:red">❌</span> |
+| Waystone mod | Seth | [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) | <span style="color:red">❌</span> |
+| Yung's mods | Jamie | [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)<br>[Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)<br>[Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras) | <span style="color:red">❌</span> |
