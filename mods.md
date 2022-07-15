@@ -14,15 +14,15 @@
 | Mod | Requested | Side | Status |
 | :-- | :-------- | :--: | :----: |
 | [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) | Seth | `common` | <span style="color:red">❌</span> |
-| [Ambient Sounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) | Jamie | `client` | <span style="color:red">❌</span> |
+| [Ambient Sounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | Jamie | `common` | <span style="color:red">❌</span> |
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau) | Jack | `common` | <span style="color:red">❌</span> |
 | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) | Sam | `common` | <span style="color:red">❌</span> |
-| [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Jamie | `common` | <span style="color:red">❌</span> |
+| [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Biome Growth Control](https://www.curseforge.com/minecraft/mc-mods/restricted-saplings) | Jamie | `common` | <span style="color:red">❌</span> |
-| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Jack | `common` | <span style="color:red">❌</span> |
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Jack | `common` | <span style="color:green">✔️</span> |
 | [Bountiful](https://www.curseforge.com/minecraft/mc-mods/bountiful) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Champions](https://www.curseforge.com/minecraft/mc-mods/champions) | Sam | `common` | <span style="color:red">❌</span> |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Sam | `server` | <span style="color:green">✔️</span> |
@@ -52,12 +52,12 @@
 | [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Straw Golem Rebaled](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Super Circuit Maker](https://www.curseforge.com/minecraft/mc-mods/super-circuit-maker) | Jamie | `common` | <span style="color:red">❌</span> |
-| [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) | Jamie | `server` | <span style="color:red">❌</span> |
+| [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) | Jamie | `server` | <span style="color:green">✔️</span> |
 | [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | Jack | `common` | <span style="color:red">❌</span> |
 | [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden) | Seth | `common` | <span style="color:red">❌</span> |
 | [The Wild Update (Frogs)](https://www.curseforge.com/minecraft/mc-mods/the-wild-update) | Josie | `common` | <span style="color:red">❌</span> |
 | [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) | Jamie | `client` | <span style="color:green">✔️</span> |
-| [Tombstone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) | Sam | `common` | <span style="color:red">❌</span> |
+| [Tombstone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Tree Harvester](https://www.curseforge.com/minecraft/mc-mods/tree-harvester) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Vein Mining](https://www.curseforge.com/minecraft/mc-mods/vein-mining) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Wall-Jump!](https://www.curseforge.com/minecraft/mc-mods/wall-jump) | Sam | `common` | <span style="color:red">❌</span> |
