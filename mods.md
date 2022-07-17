@@ -24,19 +24,21 @@
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Jack | `common` | <span style="color:green">✔️</span> |
 | [Champions](https://www.curseforge.com/minecraft/mc-mods/champions) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Sam | `server` | <span style="color:green">✔️</span> |
+| [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | Sam | `client` | <span style="color:green">✔️</span> |
-| [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) | Jamie | `common` | <span style="color:red">❌</span> |
-| [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads) | Sam | `common` | <span style="color:red">❌</span> |
+| [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | Sam | `common` | <span style="color:green">✔️</span> |
-| [Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | Jack | `common` | <span style="color:red">❌</span> |
+| [Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | Jack | `common` | <span style="color:green">✔️</span> |
 | [Grimoire of Gaia](https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Hidden Recipe Book](https://www.curseforge.com/minecraft/mc-mods/hidden-recipe-book) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | Sam | `common` | <span style="color:green">✔️</span> |
-| [Little Logistics](https://www.curseforge.com/minecraft/mc-mods/little-logistics) | Jamie | `common` | <span style="color:red">❌</span> |
-| [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | Jamie | `common` | <span style="color:red">❌</span> |
+| [Little Logistics](https://www.curseforge.com/minecraft/mc-mods/little-logistics) | Jamie | `common` | <span style="color:green">✔️</span> |
+| [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | Jamie | `common` | <span style="color:green">✔️</span> |
+| [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism) | Jamie | `common` | <span style="color:green">✔️</span> |
+| [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | Jamie | `client` | <span style="color:green">✔️</span> |
@@ -49,8 +51,8 @@
 | [Straw Golem Rebaled](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Super Circuit Maker](https://www.curseforge.com/minecraft/mc-mods/super-circuit-maker) | Jamie | `common` | <span style="color:red">❌</span> |
 | [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) | Jamie | `server` | <span style="color:green">✔️</span> |
-| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | Jack | `common` | <span style="color:red">❌</span> |
-| [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden) | Seth | `common` | <span style="color:red">❌</span> |
+| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | Jack | `common` | <span style="color:green">✔️</span> |
+| [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden) | Seth | `common` | <span style="color:green">✔️</span> |
 | [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Tombstone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Tree Harvester](https://www.curseforge.com/minecraft/mc-mods/tree-harvester) | Jamie | `common` | <span style="color:green">✔️</span> |
@@ -64,16 +66,10 @@
 
 | Request | Requested | Tentative | Status |
 | :------ | :-------- | :-------- | :----: |
-| Backpack mod | Jamie | [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks) | <span style="color:red">❌</span> |
+| Backpack mod | Jamie | [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks) | <span style="color:green">✔️</span> |
 | Frogs | Josie | [The Wild Update mod](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)<br>This mod is bugged. Frogs do not spawn naturally.<br>Mangrove biome doesn't generate naturally. | <span style="color:red">❌</span> |
 | Smarter/Harder mobs? (oof) | Jamie | [Improved Mobs](https://www.curseforge.com/minecraft/mc-mods/improved-mobs) | <span style="color:red">❌</span> |
 | Nether/End expansion | Seth | [Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium)<br>[Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)<br>[Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)<br>[Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)<br>[Nourished Nether](https://www.curseforge.com/minecraft/mc-mods/nourished-nether)<br>[Enlightened End](https://www.curseforge.com/minecraft/mc-mods/enlightened-end)<br>[L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm) | <span style="color:red">❌</span> |
-| Thermal series | Jamie | [Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)<br>[Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) | <span style="color:red">❌</span> |
-| Waystone mod | Seth | [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) | <span style="color:red">❌</span> |
-| Yung's mods | Jamie | [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)<br>[Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)<br>[Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras) | <span style="color:red">❌</span> |
-
-### Datapacks
-
-| Datapack | Requested | Status |
-| :-- | :-------- | :----: |
-| [Towers of the Wild: Reworked](https://www.curseforge.com/minecraft/texture-packs/towers-of-the-wild-reworked-datapack) | Jamie | <span style="color:red">❌</span> |
+| Thermal series | Jamie | [Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)<br>[Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) | <span style="color:green">✔️</span> |
+| Waystone mod | Seth | [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) | <span style="color:green">✔️</span> |
+| Yung's mods | Jamie | [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)<br>[Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)<br>[Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras) | <span style="color:green">✔️</span> |
