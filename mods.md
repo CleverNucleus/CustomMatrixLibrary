@@ -21,7 +21,6 @@
 | Mod | Requested | Side | Status |
 | :-- | :-------- | :--: | :----: |
 | [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) | Seth | `common` | <span style="color:green">✔️</span> |
-| [Ambient Sounds 5](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) | Seth | `server` | <span style="color:red">❗</span> |
 | [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Sam | `common` | <span style="color:green">✔️</span> |
@@ -29,9 +28,11 @@
 | [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau) | Jack | `common` | <span style="color:green">✔️</span> |
 | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) | Sam | `common` | <span style="color:green">✔️</span> |
 | [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Jamie | `common` | <span style="color:green">✔️</span> |
+| [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage-renewed) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Jack | `common` | <span style="color:red">❗</span> |
 | [Champions](https://www.curseforge.com/minecraft/mc-mods/champions) | Sam | `common` | <span style="color:green">✔️</span> |
-| [Chunk Animator](https://www.curseforge.com/minecraft/mc-mods/chunk-animator) | Jamie | `client` | <span style="color:green">✔️</span> |
+| [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders) | Jamie | `common` | <span style="color:green">✔️</span> |
+| [Cinderscapes Reforged](https://www.curseforge.com/minecraft/mc-mods/cinderscapes-reforged) | Seth | `common` | <span style="color:green">✔️</span> |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Sam | `server` | <span style="color:green">✔️</span> |
 | [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) | Jamie | `common` | <span style="color:green">✔️</span> |
@@ -43,7 +44,7 @@
 | [Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | Jack | `common` | <span style="color:green">✔️</span> |
 | [Grimoire of Gaia](https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Hidden Recipe Book](https://www.curseforge.com/minecraft/mc-mods/hidden-recipe-book) | Jamie | `client` | <span style="color:green">✔️</span> |
-| [Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium) | Seth | `server` | <span style="color:green">✔️</span> |
+| [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion) | Seth | `common` | <span style="color:green">✔️</span> |
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | Sam | `common` | <span style="color:green">✔️</span> |
 | [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm) | Seth | `common` | <span style="color:green">✔️</span> |
@@ -56,12 +57,13 @@
 | [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Paragliders](https://www.curseforge.com/minecraft/mc-mods/paragliders) | Sam | `common` | <span style="color:green">✔️</span> |
-| [Project E](https://www.curseforge.com/minecraft/mc-mods/projecte) | Sam | `common` | <span style="color:red">❌</span> |
+| [Project E](https://www.curseforge.com/minecraft/mc-mods/projecte) | Sam, Jack | `common` | <span style="color:green">✔️</span> |
 | [Pick Up Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier) | Sam | `client` | <span style="color:green">✔️</span> |
+| [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Straw Golem Rebaled](https://www.curseforge.com/minecraft/mc-mods/strawgolem-reborn) | Jamie | `common` | <span style="color:green">✔️</span> |
-| [Super Circuit Maker](https://www.curseforge.com/minecraft/mc-mods/super-circuit-maker) | Jamie | `common` | <span style="color:red">❌</span> |
+| [Super Circuit Maker](https://www.curseforge.com/minecraft/mc-mods/super-circuit-maker) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith) | Jamie | `server` | <span style="color:green">✔️</span> |
 | [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | Jack | `common` | <span style="color:green">✔️</span> |
 | [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden) | Seth | `common` | <span style="color:green">✔️</span> |
@@ -82,8 +84,8 @@
 | :------ | :-------- | :-------- | :----: |
 | Backpack mod | Jamie | [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks) | <span style="color:green">✔️</span> |
 | Frogs | Josie | [The Wild Update mod](https://www.curseforge.com/minecraft/mc-mods/the-wild-update)<br>This mod is bugged. Frogs do not spawn naturally.<br>Mangrove biome doesn't generate naturally.<br>[The Wild Backport](https://www.curseforge.com/minecraft/mc-mods/the-wild-backport) | <span style="color:red">❗</span> |
-| Smarter/Harder mobs? (oof) | Jamie | [Improved Mobs](https://www.curseforge.com/minecraft/mc-mods/improved-mobs) | <span style="color:red">❌</span> |
-| Nether/End expansion | Seth | [Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium)<br>[Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)<br>[Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)<br>[Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)<br>[Nourished Nether](https://www.curseforge.com/minecraft/mc-mods/nourished-nether)<br>[Enlightened End](https://www.curseforge.com/minecraft/mc-mods/enlightened-end)<br>[L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm) | <span style="color:red">❓</span> |
+| Smarter/Harder mobs? (oof) | Jamie | [Improved Mobs](https://www.curseforge.com/minecraft/mc-mods/improved-mobs) | <span style="color:red">❗</span> |
+| Nether/End expansion | Seth | [Incendium](https://www.curseforge.com/minecraft/mc-mods/incendium)<br>[Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)<br>[Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)<br>[Nourished Nether](https://www.curseforge.com/minecraft/mc-mods/nourished-nether)<br>[Enlightened End](https://www.curseforge.com/minecraft/mc-mods/enlightened-end) | <span style="color:red">❗</span> |
 | Thermal series | Jamie | [Foundation](https://www.curseforge.com/minecraft/mc-mods/thermal-foundation)<br>[Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) | <span style="color:green">✔️</span> |
 | Waystone mod | Seth | [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) | <span style="color:green">✔️</span> |
 | Yung's mods | Jamie | [Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)<br>[Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)<br>[Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras) | <span style="color:green">✔️</span> |
