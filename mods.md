@@ -22,12 +22,14 @@
 | :-- | :-------- | :--: | :----: |
 | [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) | Seth | `common` | <span style="color:green">✔️</span> |
 | [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) | Seth | `server` | <span style="color:red">❗</span> |
-| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Sam | `common` | <span style="color:green">✔️</span> |
+| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) | Jamie | `common` | <span style="color:green">✔️</span> |
+| [Applied Mekanistics](https://www.curseforge.com/minecraft/mc-mods/applied-mekanistics) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau) | Jack | `common` | <span style="color:green">✔️</span> |
 | [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) | Sam | `common` | <span style="color:green">✔️</span> |
 | [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) | Jamie | `common` | <span style="color:green">✔️</span> |
+| [Better Animals Plus](https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage-renewed) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Jack | `common` | <span style="color:red">❗</span> |
 | [Champions](https://www.curseforge.com/minecraft/mc-mods/champions) | Sam | `common` | <span style="color:green">✔️</span> |
@@ -39,12 +41,14 @@
 | [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) | Sam | `client` | <span style="color:green">✔️</span> |
+| [End's Phantasm](https://www.curseforge.com/minecraft/mc-mods/phantasm) | Seth | `common` | <span style="color:green">✔️</span> |
 | [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Forbidden and Arcanus](https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus) | Jack | `common` | <span style="color:green">✔️</span> |
 | [Grimoire of Gaia](https://www.curseforge.com/minecraft/mc-mods/grimoire-of-gaia) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Hidden Recipe Book](https://www.curseforge.com/minecraft/mc-mods/hidden-recipe-book) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion) | Seth | `common` | <span style="color:green">✔️</span> |
+| [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) | Sam | `common` | <span style="color:green">✔️</span> |
 | [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm) | Seth | `common` | <span style="color:green">✔️</span> |
@@ -52,6 +56,7 @@
 | [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism) | Jamie | `common` | <span style="color:green">✔️</span> |
+| [Mimic Mod](https://www.curseforge.com/minecraft/mc-mods/mimic-mod) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Jamie | `client` | <span style="color:green">✔️</span> |
 | [Neat](https://www.curseforge.com/minecraft/mc-mods/neat) | Jamie | `client` | <span style="color:green">✔️</span> |
@@ -59,6 +64,7 @@
 | [Paragliders](https://www.curseforge.com/minecraft/mc-mods/paragliders) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Project E](https://www.curseforge.com/minecraft/mc-mods/projecte) | Sam, Jack | `common` | <span style="color:green">✔️</span> |
 | [Pick Up Notifier](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier) | Sam | `client` | <span style="color:green">✔️</span> |
+| [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Scuba Gear](https://www.curseforge.com/minecraft/mc-mods/scuba-gear) | Sam | `common` | <span style="color:green">✔️</span> |
 | [Sound Physics Remastered](https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered) | Jamie | `client` | <span style="color:green">✔️</span> |
@@ -73,7 +79,6 @@
 | [Vein Mining](https://www.curseforge.com/minecraft/mc-mods/vein-mining) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Wall-Jump!](https://www.curseforge.com/minecraft/mc-mods/wall-jump) | Sam | `common` | <span style="color:green">✔️</span> |
 | [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) | Sam | `server` | <span style="color:green">✔️</span> |
-| [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit-forge) | Jamie | `common` | <span style="color:green">✔️</span> |
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) | Sam | `client` | <span style="color:green">✔️</span> |
 | [Xaero's Worldmap](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) | Jamie | `client` | <span style="color:green">✔️</span> |
 
